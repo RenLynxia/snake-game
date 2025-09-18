@@ -30,4 +30,6 @@ Press ESC if you want to exit the game.
 
 Press ESC to go back to the main menu or exit.
 
+i just add the screenshot of some step to play game but for next step i will add another language 
+
 Have fun,  Hope you like it
